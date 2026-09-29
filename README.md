@@ -233,6 +233,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+- [rexone-web](https://github.com/rex-9/rexone-web) - Sovereign open-source React 19 SPA dashboard with ActionCable WebSockets and multi-environment architecture
 - [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 - [notifuse](https://github.com/Notifuse/notifuse) - Modern self-hosted emailing platform to send newsletters & transactional emails
 - [cate](https://github.com/0-AI-UG/cate) - An open source IDE on an infinite zoomable canvas, with editor, terminal, and browser panels
